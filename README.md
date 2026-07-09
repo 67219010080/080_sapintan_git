@@ -21,3 +21,8 @@ swimming
 College: Hatyai technical college
 Program: Information technology
 Year: vocational certificate (Voc. Cert.3)
+
+# Career Goals
+- Gym coach
+- Actor
+- Bodybuilding
