@@ -30,4 +30,4 @@ Year: vocational certificate (Voc. Cert.3)
 # My Hobby
 - workout
 - watch movie
-- clab
+- listening music
