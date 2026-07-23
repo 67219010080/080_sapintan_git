@@ -26,3 +26,8 @@ Year: vocational certificate (Voc. Cert.3)
 - Gym coach
 - Actor
 - Bodybuilding
+
+# My Hobby
+- workout
+- watch movie
+- clab
