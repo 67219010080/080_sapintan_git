@@ -31,3 +31,9 @@ Year: vocational certificate (Voc. Cert.3)
 - workout
 - watch movie
 - listening music
+
+
+# My Experience
+gym: 18 year
+school: 18 year
+swimming: 18 year
