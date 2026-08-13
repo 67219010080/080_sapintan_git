@@ -41,3 +41,7 @@ swimming: 18 year
 name: lipe
 age: 18
 hiegh: 172
+
+# favorite place
+- gym
+- girlfirend house
