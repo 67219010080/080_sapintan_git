@@ -41,3 +41,7 @@ swimming: 18 year
 name: lipe
 age: 18
 hiegh: 172
+
+# favorite food
+- kra pao
+- kao pad
