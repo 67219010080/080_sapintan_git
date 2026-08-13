@@ -37,3 +37,7 @@ Year: vocational certificate (Voc. Cert.3)
 gym: 18 year
 school: 18 year
 swimming: 18 year
+# My about
+name: lipe
+age: 18
+hiegh: 172
