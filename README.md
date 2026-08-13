@@ -45,3 +45,7 @@ hiegh: 172
 # favorite food
 - kra pao
 - kao pad
+
+# favorite place
+- gym
+- girlfirend house
